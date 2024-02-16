@@ -1,0 +1,1 @@
+alert("Only 18+ Allowed");
